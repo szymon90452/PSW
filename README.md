@@ -1,2 +1,3 @@
 # PSW
- study exercises
+# Szymon Janiak
+# 2022
