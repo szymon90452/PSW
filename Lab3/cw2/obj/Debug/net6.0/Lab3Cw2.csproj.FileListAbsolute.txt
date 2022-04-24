@@ -1,0 +1,15 @@
+C:\Users\Dom\source\repos\Lab3Cw2\bin\Debug\net6.0\Lab3Cw2.exe
+C:\Users\Dom\source\repos\Lab3Cw2\bin\Debug\net6.0\Lab3Cw2.deps.json
+C:\Users\Dom\source\repos\Lab3Cw2\bin\Debug\net6.0\Lab3Cw2.runtimeconfig.json
+C:\Users\Dom\source\repos\Lab3Cw2\bin\Debug\net6.0\Lab3Cw2.dll
+C:\Users\Dom\source\repos\Lab3Cw2\bin\Debug\net6.0\Lab3Cw2.pdb
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.csproj.AssemblyReference.cache
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.AssemblyInfoInputs.cache
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.AssemblyInfo.cs
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.dll
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\refint\Lab3Cw2.dll
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.pdb
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\Lab3Cw2.genruntimeconfig.cache
+C:\Users\Dom\source\repos\Lab3Cw2\obj\Debug\net6.0\ref\Lab3Cw2.dll
